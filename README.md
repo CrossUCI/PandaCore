@@ -6,7 +6,6 @@
 :------------:
 [![5.4.8 Build Status](https://travis-ci.org/Steveo8679/PandaCore.svg?branch=master)](https://travis-ci.org/Steveo8679/PandaCore)
 
-
 ## Requirements
 
 + Platform: Linux (Ubuntu 16.04), Windows
@@ -17,7 +16,6 @@
 + OpenSSL = 1.0.2g
 + GCC = 5.4.0 (Linux only) 
 + MS Visual Studio = 14 (2015)(Windows only)
-
 
 ## License
 
