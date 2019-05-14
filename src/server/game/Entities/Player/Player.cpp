@@ -4091,7 +4091,7 @@ void Player::GiveLevel(uint8 level)
     if (level == 85)
     {
         uint32 idQuest;
-        if (GetTeam() == TEAM_ALLIANCE)
+        if (GetTeam() == ALLIANCE)
         {
             idQuest = 29547;
         }
